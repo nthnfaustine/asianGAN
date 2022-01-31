@@ -7,7 +7,8 @@
 * Artline.ipynb: Notebook to generate sketches based on photos. Credit to [author](https://github.com/vijishmadhavan/ArtLine)
 
 ## Datasets
-Dataset folder includes three seperate folders, training, validation, and testing
+Dataset folder includes three seperate folders, training, validation, and testing. Each folder contains 1355, 10, and 68 sets of photos and sketches
+
 color_transfer folder consists of three images used for color transfer
 * 1.jpg: Was used for *putih pucat* configuration (no longer used)
 * 2.jpg: Used for *kuning langsat* configuration
